@@ -1,0 +1,24 @@
+{
+  "name": "time-series-histogram",
+  "version": "0.0.1",
+  "description": "Module for displaying a time-series histogram",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com:kylecoberly/time-series-histogram"
+  },
+  "keywords": [
+    "d3",
+    "data",
+    "statistics",
+    "graph",
+    "chart",
+    "histogram",
+    "time-series"
+  ],
+  "author": "Kyle Coberly",
+  "license": "MIT"
+}
