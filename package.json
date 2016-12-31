@@ -1,6 +1,6 @@
 {
   "name": "time-series-histogram",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Module for displaying a time-series histogram",
   "main": "index.js",
   "scripts": {

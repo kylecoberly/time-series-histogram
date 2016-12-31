@@ -51,6 +51,7 @@ var data = [{
 }];
 
 timeSeriesHisogram.renderChart(data, options);
+```
 
 ## API
 
