@@ -1,6 +1,6 @@
 {
   "name": "time-series-histogram",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Module for displaying a time-series histogram",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com:kylecoberly/time-series-histogram"
+    "url": "https://www.github.com/kylecoberly/time-series-histogram"
   },
   "keywords": [
     "d3",
